@@ -4,3 +4,4 @@ He has breakfast.
 He drinks coffee.
 Then he watched Youtube.
 He goes to class.
+Learned git, told he would fail at least 10 times.
